@@ -1,8 +1,5 @@
 /*
-CS 222 - Fall 2014
-
 Project 2
-
 File: mancala.c
 */
 
